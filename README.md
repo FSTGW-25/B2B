@@ -1,6 +1,4 @@
-UPK Kr. UNSRAT 2025
 
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
