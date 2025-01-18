@@ -161,6 +161,7 @@
     <audio id="background-music" autoplay loop>
         <source src="FAST.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
+        <source src="path-to-your-file.ogg" type="audio/ogg">
     </audio>
 
     <div class="container">
